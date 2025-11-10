@@ -23,7 +23,7 @@ include 'includes/header.php';
             </p>
         </div>
         <div class="col-md-6">
-            <img src="https://via.placeholder.com/500x300.png?text=Линия+Corimpex" class="img-fluid" alt="Линия Corimpex по производству сварных балок">
+            <img src="https://placehold.co/500x300.png?text=Линия+Corimpex" class="img-fluid" alt="Линия Corimpex по производству сварных балок">
         </div>
     </div>
 
@@ -49,7 +49,7 @@ include 'includes/header.php';
             </p>
         </div>
         <div class="col-md-6 order-md-1">
-            <img src="https://via.placeholder.com/500x300.png?text=Марки+стали" class="img-fluid" alt="Марки стали для сварных балок">
+            <img src="https://placehold.co/500x300.png?text=Марки+стали" class="img-fluid" alt="Марки стали для сварных балок">
         </div>
     </div>
 

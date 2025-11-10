@@ -11,7 +11,7 @@ include 'includes/header.php';
         <div class="container-fluid py-5">
             <h1 class="display-5 fw-bold">Сварные двутавровые балки в Новосибирске — производство и поставки от ДорХан</h1>
             <p class="col-md-8 fs-4">Производство на местном заводе в Новосибирске. Короткие сроки поставки по Новосибирской области.</p>
-            <img src="https://via.placeholder.com/1200x400.png?text=Завод+в+Новосибирске" class="img-fluid my-4" alt="Производство сварных балок DoorHan в Новосибирске">
+            <img src="https://placehold.co/1200x400.png?text=Завод+в+Новосибирске" class="img-fluid my-4" alt="Производство сварных балок DoorHan в Новосибирске">
             <button class="btn btn-primary btn-lg" type="button" onclick="location.href='#contact-form'">Рассчитать стоимость в Новосибирске</button>
             <button class="btn btn-secondary btn-lg" type="button" onclick="location.href='contacts.php'">Получить общую консультацию</button>
         </div>
@@ -44,7 +44,7 @@ include 'includes/header.php';
         <!-- Content reused from index, as it's general -->
         <div class="col-md-3">
             <div class="card">
-                <img src="https://via.placeholder.com/300x200.png?text=Строительные+металлоконструкции" class="card-img-top" alt="Сварные балки для строительных конструкций">
+                <img src="https://placehold.co/300x200.png?text=Строительные+металлоконструкции" class="card-img-top" alt="Сварные балки для строительных конструкций">
                 <div class="card-body">
                     <h5 class="card-title">Строительные металлоконструкции</h5>
                 </div>
@@ -52,7 +52,7 @@ include 'includes/header.php';
         </div>
         <div class="col-md-3">
             <div class="card">
-                <img src="https://via.placeholder.com/300x200.png?text=Мостовые+сооружения" class="card-img-top" alt="Двутавры для мостовых сооружений">
+                <img src="https://placehold.co/300x200.png?text=Мостовые+сооружения" class="card-img-top" alt="Двутавры для мостовых сооружений">
                 <div class="card-body">
                     <h5 class="card-title">Мостовые сооружения</h5>
                 </div>
@@ -60,7 +60,7 @@ include 'includes/header.php';
         </div>
         <div class="col-md-3">
             <div class="card">
-                <img src="https://via.placeholder.com/300x200.png?text=Склады+и+ангары" class="card-img-top" alt="Балки для складов и ангаров">
+                <img src="https://placehold.co/300x200.png?text=Склады+и+ангары" class="card-img-top" alt="Балки для складов и ангаров">
                 <div class="card-body">
                     <h5 class="card-title">Склады и ангары</h5>
                 </div>
@@ -68,7 +68,7 @@ include 'includes/header.php';
         </div>
         <div class="col-md-3">
             <div class="card">
-                <img src="https://via.placeholder.com/300x200.png?text=Технологические+этажерки" class="card-img-top" alt="Двутавры для технологических этажерок">
+                <img src="https://placehold.co/300x200.png?text=Технологические+этажерки" class="card-img-top" alt="Двутавры для технологических этажерок">
                 <div class="card-body">
                     <h5 class="card-title">Технологические этажерки</h5>
                 </div>
