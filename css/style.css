@@ -1,0 +1,55 @@
+/* Custom Styles for DoorHan Website */
+
+:root {
+    --primary-color: #003366; /* Dark Blue */
+    --secondary-color: #f8f9fa; /* Light Gray */
+    --text-color: #333;
+    --heading-font: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: var(--heading-font);
+    color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font);
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    color: var(--primary-color) !important;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: #002244;
+    border-color: #002244;
+}
+
+.hero-block h1 {
+    color: var(--primary-color);
+}
+
+.advantages-block .icon {
+    font-size: 3rem;
+    color: var(--primary-color);
+}
+
+.card-title {
+     color: var(--primary-color);
+}
+
+footer {
+    border-top: 3px solid var(--primary-color);
+}
+
+#calculator {
+    background-color: var(--secondary-color);
+}

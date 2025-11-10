@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /handle_form.php
+
+Sitemap: https://www.yourdomain.com/sitemap.xml
