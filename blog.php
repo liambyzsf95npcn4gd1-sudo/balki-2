@@ -13,7 +13,7 @@ include 'includes/header.php';
         <!-- Article 1 -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
-                <img src="images/blog-article1.jpg" class="card-img-top" alt="Расчет металлоемкости сварной балки">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Статья+1" class="card-img-top" alt="Расчет металлоемкости сварной балки">
                 <div class="card-body">
                     <h5 class="card-title">Как рассчитать металлоемкость сварной балки?</h5>
                     <p class="card-text">В статье мы разбираем методику расчета и оптимизации веса сварной балки по сравнению со стандартными прокатными профилями. Приводим примеры реальной экономии на проектах.</p>
@@ -25,7 +25,7 @@ include 'includes/header.php';
         <!-- Article 2 -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
-                <img src="images/blog-article2.jpg" class="card-img-top" alt="Сварная балка для моста">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Статья+2" class="card-img-top" alt="Сварная балка для моста">
                 <div class="card-body">
                     <h5 class="card-title">Что лучше для моста: сварная или прокатная балка?</h5>
                     <p class="card-text">Сравнительный анализ преимуществ и недостатков использования сварных и прокатных балок в мостостроении. Рассматриваем факторы долговечности, стоимости и скорости монтажа.</p>

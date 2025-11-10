@@ -11,7 +11,7 @@ include 'includes/header.php';
 
     <!-- Map Placeholder -->
     <div class="my-4 text-center">
-        <img src="images/map-russia.png" class="img-fluid" alt="Карта заводов DoorHan в России">
+        <img src="https://placehold.co/1200x600/e3e3e3/000000?text=Карта+России" class="img-fluid" alt="Карта заводов DoorHan в России">
     </div>
 
     <div class="row">
