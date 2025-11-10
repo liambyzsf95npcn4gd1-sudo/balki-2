@@ -8,7 +8,7 @@ include 'includes/header.php';
 <div class="container">
     <h1>О компании</h1>
     <p class="lead">Международный концерн DoorHan — ведущий производитель сварных двутавровых балок в России и странах СНГ.</p>
-    <img src="images/about-us.jpg" class="img-fluid my-4" alt="Завод DoorHan по производству сварных балок">
+    <img src="https://placehold.co/1200x400/003366/FFFFFF?text=О+компании+DoorHan" class="img-fluid my-4" alt="Завод DoorHan по производству сварных балок">
 
     <div class="row">
         <div class="col-lg-8">

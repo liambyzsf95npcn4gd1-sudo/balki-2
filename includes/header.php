@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<?php $currentPage = basename($_SERVER['PHP_SELF']); ?>
 <header>
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
@@ -20,15 +21,15 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Главная</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.php">О компании</a></li>
-                    <li class="nav-item"><a class="nav-link" href="products.php">Продукция</a></li>
-                    <li class="nav-item"><a class="nav-link" href="services.php">Услуги</a></li>
-                    <li class="nav-item"><a class="nav-link" href="production.php">Производство</a></li>
-                    <li class="nav-item"><a class="nav-link" href="standards.php">ГОСТы и стандарты</a></li>
-                    <li class="nav-item"><a class="nav-link" href="geography.php">География поставок</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contacts.php">Контакты</a></li>
-                    <li class="nav-item"><a class="nav-link" href="blog.php">Блог</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'index.php') echo 'active'; ?>" href="index.php">Главная</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'about.php') echo 'active'; ?>" href="about.php">О компании</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'products.php') echo 'active'; ?>" href="products.php">Продукция</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'services.php') echo 'active'; ?>" href="services.php">Услуги</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'production.php') echo 'active'; ?>" href="production.php">Производство</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'standards.php') echo 'active'; ?>" href="standards.php">ГОСТы и стандарты</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'geography.php') echo 'active'; ?>" href="geography.php">География поставок</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'contacts.php') echo 'active'; ?>" href="contacts.php">Контакты</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'blog.php') echo 'active'; ?>" href="blog.php">Блог</a></li>
                 </ul>
             </div>
         </div>

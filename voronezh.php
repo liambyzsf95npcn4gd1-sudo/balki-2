@@ -11,7 +11,7 @@ include 'includes/header.php';
         <div class="container-fluid py-5">
             <h1 class="display-5 fw-bold">Сварные двутавровые балки в Воронеже — производство и поставки от ДорХан</h1>
             <p class="col-md-8 fs-4">Производство на местном заводе в Воронеже. Короткие сроки поставки по Воронежской области.</p>
-            <img src="images/hero-image.jpg" class="img-fluid my-4" alt="Производство сварных балок DoorHan в Воронеже">
+            <img src="https://placehold.co/1200x400/003366/FFFFFF?text=Завод+в+Воронеже" class="img-fluid my-4" alt="Производство сварных балок DoorHan в Воронеже">
             <button class="btn btn-primary btn-lg" type="button" onclick="location.href='#contact-form'">Рассчитать стоимость в Воронеже</button>
             <button class="btn btn-secondary btn-lg" type="button" onclick="location.href='contacts.php'">Получить общую консультацию</button>
         </div>
@@ -44,7 +44,7 @@ include 'includes/header.php';
         <!-- Content reused from index, as it's general -->
         <div class="col-md-3">
             <div class="card">
-                <img src="images/case-building.jpg" class="card-img-top" alt="Сварные балки для строительных конструкций">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Кейс+1" class="card-img-top" alt="Сварные балки для строительных конструкций">
                 <div class="card-body">
                     <h5 class="card-title">Строительные металлоконструкции</h5>
                 </div>
@@ -52,7 +52,7 @@ include 'includes/header.php';
         </div>
         <div class="col-md-3">
             <div class="card">
-                <img src="images/case-bridge.jpg" class="card-img-top" alt="Двутавры для мостовых сооружений">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Кейс+2" class="card-img-top" alt="Двутавры для мостовых сооружений">
                 <div class="card-body">
                     <h5 class="card-title">Мостовые сооружения</h5>
                 </div>
@@ -60,7 +60,7 @@ include 'includes/header.php';
         </div>
         <div class="col-md-3">
             <div class="card">
-                <img src="images/case-warehouse.jpg" class="card-img-top" alt="Балки для складов и ангаров">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Кейс+3" class="card-img-top" alt="Балки для складов и ангаров">
                 <div class="card-body">
                     <h5 class="card-title">Склады и ангары</h5>
                 </div>
@@ -68,7 +68,7 @@ include 'includes/header.php';
         </div>
         <div class="col-md-3">
             <div class="card">
-                <img src="images/case-industrial.jpg" class="card-img-top" alt="Двутавры для технологических этажерок">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Кейс+4" class="card-img-top" alt="Двутавры для технологических этажерок">
                 <div class="card-body">
                     <h5 class="card-title">Технологические этажерки</h5>
                 </div>

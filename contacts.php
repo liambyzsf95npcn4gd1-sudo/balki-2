@@ -61,36 +61,6 @@ include 'includes/header.php';
         </div>
     </div>
 
-    <!-- Quote Request Form -->
-    <div id="quote-form" class="mt-5">
-        <hr>
-        <h2>Заявка на расчет стоимости</h2>
-        <form action="handle_form.php" method="POST" enctype="multipart/form-data">
-             <input type="hidden" name="csrf_token" value="<?php echo $csrf_token; ?>">
-             <input type="hidden" name="form_type" value="quote">
-            <div class="mb-3">
-                <label for="quote_name" class="form-label">Имя</label>
-                <input type="text" class="form-control" id="quote_name" name="name" required>
-            </div>
-            <div class="mb-3">
-                <label for="quote_email" class="form-label">Email</label>
-                <input type="email" class="form-control" id="quote_email" name="email" required>
-            </div>
-            <div class="mb-3">
-                <label for="quote_phone" class="form-label">Телефон</label>
-                <input type="tel" class="form-control" id="quote_phone" name="phone">
-            </div>
-            <div class="mb-3">
-                <label for="quote_message" class="form-label">Сообщение</label>
-                <textarea class="form-control" id="quote_message" name="message" rows="4" required></textarea>
-            </div>
-             <div class="mb-3">
-                <label for="attachment" class="form-label">Прикрепить чертеж (DWG, DXF, PDF)</label>
-                <input type="file" class="form-control" id="attachment" name="attachment">
-            </div>
-            <button type="submit" class="btn btn-primary">Отправить заявку</button>
-        </form>
-    </div>
 </div>
 
 <?php include 'includes/footer.php'; ?>

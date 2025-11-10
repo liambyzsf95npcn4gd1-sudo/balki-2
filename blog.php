@@ -37,6 +37,7 @@ include 'includes/header.php';
         <!-- Article 3 -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=DoorHan" class="card-img-top" alt="Преимущества балок переменного сечения">
                 <div class="card-body">
                     <h5 class="card-title">Преимущества балок переменного сечения</h5>
                     <p class="card-text">Узнайте, как использование балок переменного сечения может снизить вес конструкции на 20-30% без потери несущей способности, и в каких типах зданий это наиболее эффективно.</p>
@@ -48,6 +49,7 @@ include 'includes/header.php';
         <!-- Article 4 -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=DoorHan" class="card-img-top" alt="Горячее цинкование">
                 <div class="card-body">
                     <h5 class="card-title">Горячее цинкование как метод защиты от коррозии</h5>
                     <p class="card-text">Подробно о технологии горячего цинкования, ее преимуществах перед окрашиванием и других методах, а также о влиянии на срок службы металлоконструкций.</p>
