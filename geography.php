@@ -40,7 +40,7 @@ include 'includes/header.php';
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">Можайск</h5>
-                    <p class="card-text">Завод в Можайске обслуживает Центральный федеральный округ, включая Москву и Московскую область.</p>
+                    <p class="card-text">Завод в Можайске обслуживает Центральный федеральный округ, включая Москву и Московскую область. <a href="mozhaisk.php">Подробнее...</a></p>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@ include 'includes/header.php';
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">Воронеж</h5>
-                    <p class="card-text">Площадка в Воронеже покрывает потребности Южного и Северо-Кавказского федеральных округов.</p>
+                    <p class="card-text">Площадка в Воронеже покрывает потребности Южного и Северо-Кавказского федеральных округов. <a href="voronezh.php">Подробнее...</a></p>
                 </div>
             </div>
         </div>
