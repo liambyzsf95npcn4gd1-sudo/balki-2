@@ -11,10 +11,10 @@
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                 <h5 class="text-uppercase">Ссылки</h5>
                 <ul class="list-unstyled mb-0">
-                    <li><a href="about.php" class="text-white">О компании</a></li>
-                    <li><a href="products.php" class="text-white">Продукция</a></li>
-                    <li><a href="services.php" class="text-white">Услуги</a></li>
-                    <li><a href="contacts.php" class="text-white">Контакты</a></li>
+                    <li><a href="/about.php" class="text-white">О компании</a></li>
+                    <li><a href="/products.php" class="text-white">Продукция</a></li>
+                    <li><a href="/services.php" class="text-white">Услуги</a></li>
+                    <li><a href="/contacts.php" class="text-white">Контакты</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
