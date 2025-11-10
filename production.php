@@ -23,7 +23,7 @@ include 'includes/header.php';
             </p>
         </div>
         <div class="col-md-6">
-            <img src="images/production-line.jpg" class="img-fluid" alt="Линия Corimpex по производству сварных балок">
+            <img src="https://via.placeholder.com/500x300.png?text=Линия+Corimpex" class="img-fluid" alt="Линия Corimpex по производству сварных балок">
         </div>
     </div>
 
@@ -31,7 +31,7 @@ include 'includes/header.php';
     <div class="text-center my-5">
         <h3>Видео нашего производства</h3>
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/placeholder" title="Видео производства"></iframe>
         </div>
     </div>
 
@@ -49,7 +49,7 @@ include 'includes/header.php';
             </p>
         </div>
         <div class="col-md-6 order-md-1">
-            <img src="images/production-steel.jpg" class="img-fluid" alt="Марки стали для сварных балок">
+            <img src="https://via.placeholder.com/500x300.png?text=Марки+стали" class="img-fluid" alt="Марки стали для сварных балок">
         </div>
     </div>
 

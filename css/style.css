@@ -43,8 +43,8 @@ a:hover {
 }
 
 /* Header */
-header .navbar.navbar-light.bg-light {
-    background-color: var(--primary-color) !important;
+header .navbar {
+    background-color: var(--primary-color);
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
@@ -54,7 +54,7 @@ header .navbar.navbar-light.bg-light {
 
 header .navbar-brand,
 header .navbar-nav .nav-link {
-    color: var(--background-color) !important;
+    color: var(--background-color);
 }
 
 .navbar-brand {
@@ -180,7 +180,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #333333; /* Dark Gray */
     color: var(--background-color);
     padding: 40px 0;
 }

@@ -37,12 +37,12 @@ include 'includes/header.php';
         <div class="col-md-6">
             <h3>Балки переменного сечения</h3>
             <p>Экономия металла до 26% за счет оптимального распределения нагрузок. Идеально для рамных конструкций.</p>
-            <img src="images/product-variable.png" class="img-fluid" alt="Схема балки переменного сечения">
+            <img src="https://via.placeholder.com/500x300.png?text=Балка+переменного+сечения" class="img-fluid" alt="Схема балки переменного сечения">
         </div>
         <div class="col-md-6">
             <h3>Перфорированные балки</h3>
             <p>Облегченные балки с отверстиями в стенке для прокладки коммуникаций. Снижение веса без потери прочности.</p>
-            <img src="images/product-perforated.png" class="img-fluid" alt="Схема перфорированной балки">
+            <img src="https://via.placeholder.com/500x300.png?text=Перфорированная+балка" class="img-fluid" alt="Схема перфорированной балки">
         </div>
     </div>
 
