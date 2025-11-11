@@ -19,9 +19,10 @@ include 'includes/header.php';
         <div class="col-md-6 col-lg-3 mb-4">
             <div class="card h-100">
                 <img src="https://placehold.co/600x400/003366/FFFFFF?text=Новосибирск" class="card-img-top" alt="Завод в Новосибирске">
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Новосибирск</h5>
-                    <p class="card-text">Завод в Новосибирске обеспечивает потребности Сибирского и Дальневосточного федеральных округов. <a href="novosibirsk.php">Подробнее...</a></p>
+                    <p class="card-text">Завод в Новосибирске обеспечивает потребности Сибирского и Дальневосточного федеральных округов.</p>
+                    <a href="novosibirsk.php" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>
@@ -30,9 +31,10 @@ include 'includes/header.php';
         <div class="col-md-6 col-lg-3 mb-4">
             <div class="card h-100">
                 <img src="https://placehold.co/600x400/003366/FFFFFF?text=Казань" class="card-img-top" alt="Завод в Казани">
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Казань</h5>
-                    <p class="card-text">Производственная площадка в Казани ориентирована на Поволжский и Уральский регионы. <a href="kazan.php">Подробнее...</a></p>
+                    <p class="card-text">Производственная площадка в Казани ориентирована на Поволжский и Уральский регионы.</p>
+                    <a href="kazan.php" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>
@@ -41,9 +43,10 @@ include 'includes/header.php';
         <div class="col-md-6 col-lg-3 mb-4">
             <div class="card h-100">
                 <img src="https://placehold.co/600x400/003366/FFFFFF?text=Можайск" class="card-img-top" alt="Завод в Можайске">
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Можайск</h5>
-                    <p class="card-text">Завод в Можайске обслуживает Центральный федеральный округ, включая Москву и Московскую область. <a href="mozhaisk.php">Подробнее...</a></p>
+                    <p class="card-text">Завод в Можайске обслуживает Центральный федеральный округ, включая Москву и Московскую область.</p>
+                    <a href="mozhaisk.php" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>
@@ -52,9 +55,10 @@ include 'includes/header.php';
         <div class="col-md-6 col-lg-3 mb-4">
             <div class="card h-100">
                 <img src="https://placehold.co/600x400/003366/FFFFFF?text=Воронеж" class="card-img-top" alt="Завод в Воронеже">
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Воронеж</h5>
-                    <p class="card-text">Площадка в Воронеже покрывает потребности Южного и Северо-Кавказского федеральных округов. <a href="voronezh.php">Подробнее...</a></p>
+                    <p class="card-text">Площадка в Воронеже покрывает потребности Южного и Северо-Кавказского федеральных округов.</p>
+                    <a href="voronezh.php" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>

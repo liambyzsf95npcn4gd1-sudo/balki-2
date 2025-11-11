@@ -12,7 +12,7 @@ include 'includes/header.php';
             <h1 class="display-5 fw-bold">Сварные двутавровые балки в Казани — производство и поставки от ДорХан</h1>
             <p class="col-md-8 fs-4">Производство на местном заводе в Казани. Короткие сроки поставки по Татарстану.</p>
             <img src="https://placehold.co/1200x400/003366/FFFFFF?text=Завод+в+Казани" class="img-fluid my-4" alt="Производство сварных балок DoorHan в Казани">
-            <button class="btn btn-primary btn-lg" type="button" onclick="location.href='#contact-form'">Рассчитать стоимость в Казани</button>
+            <a href="#contact-form" class="btn btn-primary btn-lg">Рассчитать стоимость в Казани</a>
             <button class="btn btn-secondary btn-lg" type="button" onclick="location.href='contacts.php'">Получить общую консультацию</button>
         </div>
     </div>

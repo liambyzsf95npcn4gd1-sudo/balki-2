@@ -41,7 +41,7 @@ include 'includes/header.php';
     <div class="row my-5">
         <h2 class="text-center mb-4">Кейсы применения</h2>
         <div class="col-md-3">
-            <div class="card">
+            <div class="card h-100">
                 <img src="https://placehold.co/300x200.png?text=Строительные+металлоконструкции" class="card-img-top" alt="Сварные балки для строительных конструкций">
                 <div class="card-body">
                     <h5 class="card-title">Строительные металлоконструкции</h5>
@@ -49,7 +49,7 @@ include 'includes/header.php';
             </div>
         </div>
         <div class="col-md-3">
-            <div class="card">
+            <div class="card h-100">
                 <img src="https://placehold.co/300x200.png?text=Мостовые+сооружения" class="card-img-top" alt="Двутавры для мостовых сооружений">
                 <div class="card-body">
                     <h5 class="card-title">Мостовые сооружения</h5>
@@ -57,7 +57,7 @@ include 'includes/header.php';
             </div>
         </div>
         <div class="col-md-3">
-            <div class="card">
+            <div class="card h-100">
                 <img src="https://placehold.co/300x200.png?text=Склады+и+ангары" class="card-img-top" alt="Балки для складов и ангаров">
                 <div class="card-body">
                     <h5 class="card-title">Склады и ангары</h5>
@@ -65,7 +65,7 @@ include 'includes/header.php';
             </div>
         </div>
         <div class="col-md-3">
-            <div class="card">
+            <div class="card h-100">
                 <img src="https://placehold.co/300x200.png?text=Технологические+этажерки" class="card-img-top" alt="Двутавры для технологических этажерок">
                 <div class="card-body">
                     <h5 class="card-title">Технологические этажерки</h5>
