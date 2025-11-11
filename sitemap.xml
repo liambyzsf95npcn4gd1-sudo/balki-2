@@ -1,58 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.yourdomain.com/index.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/index.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/about.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/about.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/products.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/products.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/services.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/services.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/production.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/production.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/standards.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/standards.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/geography.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/geography.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/contacts.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/contacts.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.yourdomain.com/blog.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/blog.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.70</priority>
   </url>
    <url>
-    <loc>https://www.yourdomain.com/novosibirsk.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/novosibirsk.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.60</priority>
   </url>
    <url>
-    <loc>https://www.yourdomain.com/kazan.php</loc>
-    <lastmod>2024-05-20</lastmod>
+    <loc>https://doorhan.ru/balki/kazan.php</loc>
+    <lastmod>2025-11-11</lastmod>
     <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://doorhan.ru/balki/mozhaisk.php</loc>
+    <lastmod>2025-11-11</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://doorhan.ru/balki/voronezh.php</loc>
+    <lastmod>2025-11-11</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://doorhan.ru/balki/perforated_beams.php</loc>
+    <lastmod>2025-11-11</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://doorhan.ru/balki/variable_section_beams.php</loc>
+    <lastmod>2025-11-11</lastmod>
+    <priority>0.80</priority>
   </url>
 </urlset>
