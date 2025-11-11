@@ -23,7 +23,7 @@ include 'includes/header.php';
             </p>
         </div>
         <div class="col-md-6">
-            <img src="images/production-line.jpg" class="img-fluid" alt="Линия Corimpex по производству сварных балок">
+            <img src="https://placehold.co/500x300.png?text=Линия+Corimpex" class="img-fluid" alt="Линия Corimpex по производству сварных балок">
         </div>
     </div>
 
@@ -31,7 +31,7 @@ include 'includes/header.php';
     <div class="text-center my-5">
         <h3>Видео нашего производства</h3>
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/placeholder" title="Видео производства"></iframe>
         </div>
     </div>
 
@@ -49,7 +49,7 @@ include 'includes/header.php';
             </p>
         </div>
         <div class="col-md-6 order-md-1">
-            <img src="images/production-steel.jpg" class="img-fluid" alt="Марки стали для сварных балок">
+            <img src="https://placehold.co/500x300.png?text=Марки+стали" class="img-fluid" alt="Марки стали для сварных балок">
         </div>
     </div>
 
@@ -62,6 +62,34 @@ include 'includes/header.php';
                3. <strong>Сварочный контроль:</strong> Визуальный и ультразвуковой контроль сварных швов.<br>
                4. <strong>Выходной контроль:</strong> Финальная проверка готовой продукции перед отгрузкой.
             </p>
+        </div>
+    </div>
+
+    <!-- Variable Section Beams -->
+    <div class="row align-items-center my-5">
+        <div class="col-md-6">
+            <h2><a href="variable_section_beams.php" class="text-decoration-none">Балки переменного сечения</a></h2>
+            <p>Технология, основанная на принципе равнопрочности, позволяет концентрировать материал в зонах максимальных напряжений, экономя до 30% металла без потери несущей способности.</p>
+            <a href="variable_section_beams.php" class="btn btn-primary">Узнать больше</a>
+        </div>
+        <div class="col-md-6">
+            <a href="variable_section_beams.php">
+                <img src="https://placehold.co/500x300.png?text=Балка+переменного+сечения" class="img-fluid" alt="Балка переменного сечения">
+            </a>
+        </div>
+    </div>
+
+    <!-- Perforated Beams -->
+    <div class="row align-items-center my-5">
+        <div class="col-md-6 order-md-2">
+            <h2><a href="perforated_beams.php" class="text-decoration-none">Перфорированные балки</a></h2>
+            <p>Оптимизированная перфорация позволяет прокладывать коммуникации прямо сквозь балки, снижая массу конструкции до 15% и экономя строительную высоту здания.</p>
+            <a href="perforated_beams.php" class="btn btn-primary">Узнать больше</a>
+        </div>
+        <div class="col-md-6 order-md-1">
+            <a href="perforated_beams.php">
+                <img src="https://placehold.co/500x300.png?text=Перфорированная+балка" class="img-fluid" alt="Перфорированная балка">
+            </a>
         </div>
     </div>
 </div>

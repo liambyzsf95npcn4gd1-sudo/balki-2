@@ -13,7 +13,7 @@ include 'includes/header.php';
         <!-- Service 1: Custom Manufacturing -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
-                <img src="images/service-custom.jpg" class="card-img-top" alt="Изготовление балок по индивидуальным чертежам">
+                <img src="https://placehold.co/500x300.png?text=Изготовление+по+чертежам" class="card-img-top" alt="Изготовление балок по индивидуальным чертежам">
                 <div class="card-body">
                     <h5 class="card-title">Изготовление по индивидуальным чертежам</h5>
                     <p class="card-text">Наше оборудование позволяет производить сварные балки с нестандартными параметрами сечения, переменной высотой и другими особенностями согласно вашему техническому заданию. Мы работаем с чертежами в форматах DWG и DXF.</p>
@@ -24,7 +24,7 @@ include 'includes/header.php';
         <!-- Service 2: Hot-Dip Galvanizing -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
-                <img src="images/service-galvanizing.jpg" class="card-img-top" alt="Горячее цинкование сварных балок">
+                <img src="https://placehold.co/500x300.png?text=Горячее+цинкование" class="card-img-top" alt="Горячее цинкование сварных балок">
                 <div class="card-body">
                     <h5 class="card-title">Горячее цинкование</h5>
                     <p class="card-text">Для защиты конструкций от коррозии мы предлагаем услугу горячего цинкования. Этот метод обеспечивает долговечность балок до 50 лет в городской среде и до 25 лет в агрессивных промышленных условиях. Цинковое покрытие наносится в соответствии с ГОСТ 9.307-89.</p>
@@ -35,7 +35,7 @@ include 'includes/header.php';
         <!-- Service 3: Ready-Made Parts -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
-                <img src="images/service-parts.jpg" class="card-img-top" alt="Изготовление готовых деталей из двутавра">
+                <img src="https://placehold.co/500x300.png?text=Готовые+детали" class="card-img-top" alt="Изготовление готовых деталей из двутавра">
                 <div class="card-body">
                     <h5 class="card-title">Изготовление готовых деталей</h5>
                     <p class="card-text">Мы можем поставить не просто балки, а готовые к монтажу детали. Услуги включают точную резку в размер, сверление отверстий любой сложности, а также нанесение монтажных маркировок. Это значительно ускоряет процесс сборки конструкций на объекте.</p>
@@ -46,7 +46,7 @@ include 'includes/header.php';
         <!-- Service 4: Quality Control -->
         <div class="col-md-6 mb-4">
             <div class="card h-100">
-                <img src="images/service-quality.jpg" class="card-img-top" alt="Контроль качества сварных швов">
+                <img src="https://placehold.co/500x300.png?text=Контроль+качества" class="card-img-top" alt="Контроль качества сварных швов">
                 <div class="card-body">
                     <h5 class="card-title">Контроль качества швов</h5>
                     <p class="card-text">Мы проводим 100% ультразвуковой контроль сварных швов для всех ответственных конструкций. Это гарантирует отсутствие скрытых дефектов и полное соответствие требованиям проектной документации и стандартам безопасности.</p>
