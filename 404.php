@@ -15,7 +15,7 @@ include 'includes/header.php';
             </p>
             <img src="https://placehold.co/150.png?text=404" alt="Иконка ошибки 404" class="img-fluid my-4" style="max-width: 150px;">
             <div class="mt-4">
-                <a href="index.php" class="btn btn-primary btn-lg">Вернуться на главную</a>
+                <a href="index" class="btn btn-primary btn-lg">Вернуться на главную</a>
             </div>
         </div>
     </div>

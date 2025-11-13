@@ -12,6 +12,7 @@ include 'includes/header.php';
     <section id="standard-beams" class="my-5">
         <h2>Стандартные сварные балки</h2>
         <p>Мы производим сварные двутавровые балки по стандартным и индивидуальным размерам. Ниже представлена таблица типовых размеров.</p>
+        <div class="table-responsive">
         <table class="table table-striped table-bordered">
             <thead class="table-dark">
                 <tr>
@@ -30,6 +31,7 @@ include 'includes/header.php';
                 <tr><td>1200</td><td>400</td><td>12</td><td>20</td><td>180</td><td>8200</td></tr>
             </tbody>
         </table>
+        </div>
     </section>
 
     <!-- Custom Beams Section -->
@@ -38,13 +40,13 @@ include 'includes/header.php';
             <h3>Балки переменного сечения</h3>
             <p>Экономия металла до 26% за счет оптимального распределения нагрузок. Идеально для рамных конструкций.</p>
             <img src="https://placehold.co/500x300.png?text=Балка+переменного+сечения" class="img-fluid" alt="Схема балки переменного сечения">
-            <a href="variable_section_beams.php" class="btn btn-primary mt-2">Узнать больше</a>
+            <a href="variable_section_beams" class="btn btn-primary mt-2">Узнать больше</a>
         </div>
         <div class="col-md-6">
             <h3>Перфорированные балки</h3>
             <p>Облегченные балки с отверстиями в стенке для прокладки коммуникаций. Снижение веса без потери прочности.</p>
             <img src="https://placehold.co/500x300.png?text=Перфорированная+балка" class="img-fluid" alt="Схема перфорированной балки">
-            <a href="perforated_beams.php" class="btn btn-primary mt-2">Узнать больше</a>
+            <a href="perforated_beams" class="btn btn-primary mt-2">Узнать больше</a>
         </div>
     </div>
 

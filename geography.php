@@ -22,7 +22,7 @@ include 'includes/header.php';
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Новосибирск</h5>
                     <p class="card-text">Завод в Новосибирске обеспечивает потребности Сибирского и Дальневосточного федеральных округов.</p>
-                    <a href="novosibirsk.php" class="btn btn-primary mt-auto">Подробнее</a>
+                    <a href="novosibirsk" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@ include 'includes/header.php';
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Казань</h5>
                     <p class="card-text">Производственная площадка в Казани ориентирована на Поволжский и Уральский регионы.</p>
-                    <a href="kazan.php" class="btn btn-primary mt-auto">Подробнее</a>
+                    <a href="kazan" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>
@@ -46,7 +46,7 @@ include 'includes/header.php';
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Можайск</h5>
                     <p class="card-text">Завод в Можайске обслуживает Центральный федеральный округ, включая Москву и Московскую область.</p>
-                    <a href="mozhaisk.php" class="btn btn-primary mt-auto">Подробнее</a>
+                    <a href="mozhaisk" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>
@@ -58,7 +58,7 @@ include 'includes/header.php';
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">Воронеж</h5>
                     <p class="card-text">Площадка в Воронеже покрывает потребности Южного и Северо-Кавказского федеральных округов.</p>
-                    <a href="voronezh.php" class="btn btn-primary mt-auto">Подробнее</a>
+                    <a href="voronezh" class="btn btn-primary mt-auto">Подробнее</a>
                 </div>
             </div>
         </div>

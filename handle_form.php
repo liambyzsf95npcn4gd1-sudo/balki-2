@@ -4,7 +4,7 @@ session_start();
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // CSRF Token Validation
     if (!isset($_POST['csrf_token']) || !hash_equals($_SESSION['csrf_token'], $_POST['csrf_token'])) {
-        header("Location: contacts.php?status=error");
+        header("Location: contacts?status=error");
         exit;
     }
 
@@ -38,13 +38,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Send email
     if (mail($to, $subject, $body, $headers)) {
-        header("Location: contacts.php?status=success");
+        header("Location: contacts?status=success");
     } else {
-        header("Location: contacts.php?status=error");
+        header("Location: contacts?status=error");
     }
 } else {
     // Not a POST request
-    header("Location: contacts.php");
+    header("Location: contacts");
 }
 exit;
 ?>
