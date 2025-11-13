@@ -38,13 +38,13 @@ include 'includes/header.php';
             <h3>Балки переменного сечения</h3>
             <p>Экономия металла до 26% за счет оптимального распределения нагрузок. Идеально для рамных конструкций.</p>
             <img src="https://placehold.co/500x300.png?text=Балка+переменного+сечения" class="img-fluid" alt="Схема балки переменного сечения">
-            <a href="variable_section_beams.php" class="btn btn-primary mt-2">Узнать больше</a>
+            <a href="variable_section_beams" class="btn btn-primary mt-2">Узнать больше</a>
         </div>
         <div class="col-md-6">
             <h3>Перфорированные балки</h3>
             <p>Облегченные балки с отверстиями в стенке для прокладки коммуникаций. Снижение веса без потери прочности.</p>
             <img src="https://placehold.co/500x300.png?text=Перфорированная+балка" class="img-fluid" alt="Схема перфорированной балки">
-            <a href="perforated_beams.php" class="btn btn-primary mt-2">Узнать больше</a>
+            <a href="perforated_beams" class="btn btn-primary mt-2">Узнать больше</a>
         </div>
     </div>
 

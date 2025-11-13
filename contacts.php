@@ -38,7 +38,7 @@ include 'includes/header.php';
                  <div class="alert alert-danger">Ошибка отправки. Пожалуйста, попробуйте еще раз.</div>
             <?php endif; ?>
 
-            <form action="handle_form.php" method="POST">
+            <form action="handle_form" method="POST">
                 <input type="hidden" name="csrf_token" value="<?php echo $csrf_token; ?>">
                 <div class="mb-3">
                     <label for="name" class="form-label">Имя</label>

@@ -13,7 +13,7 @@ include 'includes/header.php';
             <p class="col-md-8 fs-4">Производство на местном заводе в Новосибирске. Короткие сроки поставки по Новосибирской области.</p>
             <img src="https://placehold.co/1200x400/003366/FFFFFF?text=Завод+в+Новосибирске" class="img-fluid my-4" alt="Производство сварных балок DoorHan в Новосибирске">
             <a href="#contact-form" class="btn btn-primary btn-lg">Рассчитать стоимость в Новосибирске</a>
-            <button class="btn btn-secondary btn-lg" type="button" onclick="location.href='contacts.php'">Получить общую консультацию</button>
+            <button class="btn btn-secondary btn-lg" type="button" onclick="location.href='contacts'">Получить общую консультацию</button>
         </div>
     </div>
 
@@ -96,7 +96,7 @@ include 'includes/header.php';
     <div id="contact-form" class="row my-5 justify-content-center">
         <div class="col-md-8">
             <h2 class="text-center mb-4">Отправить заявку в Новосибирске</h2>
-            <form action="handle_form.php" method="post">
+            <form action="handle_form" method="post">
                 <input type="hidden" name="region" value="Novosibirsk">
                 <div class="mb-3">
                     <label for="name" class="form-label">Ваше имя</label>
