@@ -245,3 +245,16 @@ footer .social-icons a {
         margin-top: 20px;
     }
 }
+
+.hero-block {
+    background: url("https://placehold.co/1200x400/003366/FFFFFF") no-repeat center center;
+    background-size: cover;
+}
+
+
+@media (max-width: 992px) {
+    .navbar-nav .nav-link {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+}

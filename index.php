@@ -7,13 +7,11 @@ include 'includes/header.php';
 
 <div class="container">
     <!-- Hero Block -->
-    <div class="p-5 mb-4 bg-light rounded-3">
+    <div class="hero-block text-center text-white p-5 mb-4 rounded-3">
         <div class="container-fluid py-5">
             <h1 class="display-5 fw-bold">Сварные двутавровые балки от производителя — оптимальное решение для строительных конструкций</h1>
-            <p class="col-md-8 fs-4">Высота от 200 до 2000 мм, любые нестандартные решения</p>
-            <img src="https://placehold.co/1200x400.png?text=Производство+сварных+балок" class="img-fluid my-4" alt="Производство сварных балок DoorHan">
-            <button class="btn btn-primary btn-lg" type="button" onclick="location.href='contacts.php#quote-form'">Рассчитать стоимость</button>
-            <button class="btn btn-secondary btn-lg" type="button" onclick="location.href='contacts.php'">Получить консультацию</button>
+            <p class="fs-4">Высота от 200 до 2000 мм, любые нестандартные решения</p>
+            <button class="btn btn-primary btn-lg" type="button" onclick="location.href='contacts#quote-form'">Рассчитать стоимость</button>
         </div>
     </div>
 
@@ -78,6 +76,58 @@ include 'includes/header.php';
     <div class="row">
         <div class="col-lg-12">
             <p class="lead">Международный концерн ДорХан специализируется на производстве сварных двутавровых балок на высокотехнологичных линиях итальянской компании Corimpex. Наши производственные мощности в Новосибирске, Можайске, Казани и Воронеже позволяют изготовить балки высотой от 200 до 2000 мм с индивидуальными параметрами сечения. Мы предлагаем не просто металлопрокат, а инженерные решения, позволяющие снизить материалоемкость и стоимость ваших конструкций.</p>
+        </div>
+    </div>
+
+    <!-- Geography Block -->
+    <div class="row my-5">
+        <h2 class="text-center mb-4">География поставок</h2>
+        <!-- Novosibirsk -->
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card h-100">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Новосибирск" class="card-img-top" alt="Завод в Новосибирске">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Новосибирск</h5>
+                    <p class="card-text">Завод в Новосибирске обеспечивает потребности Сибирского и Дальневосточного федеральных округов.</p>
+                    <a href="novosibirsk" class="btn btn-primary mt-auto">Подробнее</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Kazan -->
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card h-100">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Казань" class="card-img-top" alt="Завод в Казани">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Казань</h5>
+                    <p class="card-text">Производственная площадка в Казани ориентирована на Поволжский и Уральский регионы.</p>
+                    <a href="kazan" class="btn btn-primary mt-auto">Подробнее</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mozhaysk -->
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card h-100">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Можайск" class="card-img-top" alt="Завод в Можайске">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Можайск</h5>
+                    <p class="card-text">Завод в Можайске обслуживает Центральный федеральный округ, включая Москву и Московскую область.</p>
+                    <a href="mozhaisk" class="btn btn-primary mt-auto">Подробнее</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Voronezh -->
+        <div class="col-md-6 col-lg-3 mb-4">
+            <div class="card h-100">
+                <img src="https://placehold.co/600x400/003366/FFFFFF?text=Воронеж" class="card-img-top" alt="Завод в Воронеже">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Воронеж</h5>
+                    <p class="card-text">Площадка в Воронеже покрывает потребности Южного и Северо-Кавказского федеральных округов.</p>
+                    <a href="voronezh" class="btn btn-primary mt-auto">Подробнее</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
