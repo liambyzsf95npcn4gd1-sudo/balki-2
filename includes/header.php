@@ -26,13 +26,13 @@ if (empty($currentPage)) {
     </div>
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="index">DoorHan</a>
+            <a class="navbar-brand" href="./">DoorHan</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'about' || $currentPage == 'index') echo 'active'; ?>" href="about">О компании</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'about') echo 'active'; ?>" href="about">О компании</a></li>
                     <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'products') echo 'active'; ?>" href="products">Продукция</a></li>
                     <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'services') echo 'active'; ?>" href="services">Услуги</a></li>
                     <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'production') echo 'active'; ?>" href="production">Производство</a></li>

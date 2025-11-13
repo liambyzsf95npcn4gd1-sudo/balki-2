@@ -12,6 +12,7 @@ include 'includes/header.php';
     <section id="standard-beams" class="my-5">
         <h2>Стандартные сварные балки</h2>
         <p>Мы производим сварные двутавровые балки по стандартным и индивидуальным размерам. Ниже представлена таблица типовых размеров.</p>
+        <div class="table-responsive">
         <table class="table table-striped table-bordered">
             <thead class="table-dark">
                 <tr>
@@ -30,6 +31,7 @@ include 'includes/header.php';
                 <tr><td>1200</td><td>400</td><td>12</td><td>20</td><td>180</td><td>8200</td></tr>
             </tbody>
         </table>
+        </div>
     </section>
 
     <!-- Custom Beams Section -->
