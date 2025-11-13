@@ -32,7 +32,7 @@ if (empty($currentPage)) {
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'about' || $currentPage == 'index') echo 'active'; ?>" href="about">О компании</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'about') echo 'active'; ?>" href="about">О компании</a></li>
                     <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'products') echo 'active'; ?>" href="products">Продукция</a></li>
                     <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'services') echo 'active'; ?>" href="services">Услуги</a></li>
                     <li class="nav-item"><a class="nav-link <?php if ($currentPage == 'production') echo 'active'; ?>" href="production">Производство</a></li>

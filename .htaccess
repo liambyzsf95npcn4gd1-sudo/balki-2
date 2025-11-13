@@ -1,5 +1,6 @@
 RewriteEngine On
 
+RewriteRule ^index\.php$ / [R=301,L]
 RewriteRule ^standards$ /balki/gosts [R=301,L]
 
 # Remove .php extension from URL
